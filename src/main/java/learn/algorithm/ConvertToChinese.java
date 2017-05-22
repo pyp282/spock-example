@@ -1,7 +1,9 @@
 package learn.algorithm;
 
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.LinkedList;
 import java.util.Map;
 
 public class ConvertToChinese {
@@ -58,8 +60,11 @@ public class ConvertToChinese {
         }
     }
 
+
     public static void main(String[] args) {
         System.out.println(getFormatString(5007));
+        LinkedList linkedList;
+        ArrayList arrayList;
 
     }
 
